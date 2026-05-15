@@ -44,4 +44,4 @@ The project is organized into the following files:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/StanZalewski/Heating-chamber-with-PID-control
